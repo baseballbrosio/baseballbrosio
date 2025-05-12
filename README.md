@@ -1,6 +1,6 @@
 ## Baseball Bros IO
 
-[Baseball Bros IO]([https://speed-stars.github.io/](https://baseball-game.io/)) is a sports game that combines the thrill of baseball with the competitive spirit of IO games. It takes players to the baseball match where they try to bat and field to bring champion! Whether you're a die-hard baseball fan or a casual gamer, this game offers a unique blend of strategy, skill, and fun. Players can engage in fast-paced matches, customize their teams, and compete against others from around the globe, making every game a fresh and exciting experience.
+[Baseball Bros IO](https://baseball-game.io/) is a sports game that combines the thrill of baseball with the competitive spirit of IO games. It takes players to the baseball match where they try to bat and field to bring champion! Whether you're a die-hard baseball fan or a casual gamer, this game offers a unique blend of strategy, skill, and fun. Players can engage in fast-paced matches, customize their teams, and compete against others from around the globe, making every game a fresh and exciting experience.
 
 ## How to play Baseball Bros IO
 
